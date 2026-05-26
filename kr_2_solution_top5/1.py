@@ -18,7 +18,7 @@ def solve():
             left = mid + 1
         else:
             right = mid - 1
-
+   
     print(ans)
 
 if __name__ == '__main__':
